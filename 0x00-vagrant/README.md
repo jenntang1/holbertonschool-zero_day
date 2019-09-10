@@ -1,1 +1,1 @@
-
+The goal of this project is to help students understand the virtual environment.  We will work in Vagrant to create directories, files and push them into GitHub.  An exercise within this project is to find out the print output of command uname.  
